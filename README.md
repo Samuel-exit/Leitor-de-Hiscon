@@ -1,9 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a//dev/null b/README.md
-index 0000000000000000000000000000000000000000..697f510d01ee0ecf78ef1d147a440288857be0fc 100644
---- a//dev/null
-+++ b/README.md
-@@ -0,0 +1,87 @@
 +# Leitor de Hiscon
 +
 +Este repositório contém um conjunto de scripts em Python para extração de
