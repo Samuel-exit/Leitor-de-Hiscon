@@ -1,0 +1,108 @@
+{
+  "CLIENTES": {
+    "984.863.498-34": {
+      "nome": "SILVIO LOPES DE LIMA",
+      "cpf": "984.863.498-34",
+      "rg": "12.510.383-9",
+      "nacionalidade": "BRASILEIRO",
+      "estadoCivil": "VIÚVO",
+      "sexo": "MASCULINO",
+      "profissao": "APOSENTADO",
+      "endereco": {
+        "rua": "RUA PAVÃO DE OURO",
+        "numero": "527",
+        "bairro": "JARDIM GAIVOTAS",
+        "cidade": "CARAGUATATUBA",
+        "uf": "SP",
+        "cep": "11673-561"
+      }
+    },
+    "110.695.488-20": {
+      "nome": "IVONE DE FATIMA AIRES ENGLER",
+      "cpf": "110.695.488-20",
+      "rg": "222113947",
+      "nacionalidade": "BRASILEIRA",
+      "estadoCivil": "CASADA",
+      "sexo": "FEMININO",
+      "profissao": "APOSENTADA",
+      "endereco": {
+        "rua": "ANTONIO DUARTE PERERIRA",
+        "numero": "40",
+        "bairro": "IPIRANGA",
+        "cidade": "AVARE",
+        "uf": "SP",
+        "cep": "18700-000"
+      }
+    },
+    "108.255.468-50": {
+      "nome": "MARINEIDE ANJOS DO ROSARIO",
+      "cpf": "108.255.468-50",
+      "rg": "14.542.700-6",
+      "nacionalidade": "BRASILEIRA",
+      "estadoCivil": "CASADA",
+      "sexo": "FEMININO",
+      "profissao": "APOSENTADA",
+      "endereco": {
+        "rua": "DEZESSETE",
+        "numero": "118",
+        "bairro": "COTA",
+        "cidade": "CUBATAO",
+        "uf": "SP",
+        "cep": "11548-000"
+      }
+    }
+  },
+  "BANCOS": {
+    "61.186.680/0001-74": {
+      "nome": "BANCO BMG S/A",
+      "cidade": "SÃO PAULO",
+      "uf": "SP",
+      "cnpj": "61.186.680/0001-74",
+      "endereco": {
+        "rua": "AV PRES. JUSCELINO KUBITSCHEK",
+        "numero": "1830",
+        "bairro": "VILA NOVA CONCEIÇÃO",
+        "cep": "04543-900"
+      },
+      "valorAcao": "R$ 7.008,00",
+      "foroDeCompetencia": "Foro de Caraguatatuba",
+      "complemento": "ANDAR 9 10 14 SALA 94 101 102...",
+      "telefone": "(11) 2847-7486",
+      "email": "fiscal@bancobmg.com.br"
+    },
+    "61.348.538/0001-86": {
+      "nome": "BANCO C6 CONSIGNADO S.A.",
+      "cidade": "SÃO PAULO",
+      "uf": "SP",
+      "cnpj": "61.348.538/0001-86",
+      "endereco": {
+        "rua": "AV NOVE DE JULHO",
+        "numero": "3148",
+        "bairro": "JARDIM PAULISTA",
+        "cep": "01406-000"
+      },
+      "valorAcao": "R$ 2.494,80",
+      "foroDeCompetencia": "Foro de Avaré",
+      "complemento": "-",
+      "telefone": "(11) 3343-7129",
+      "email": "centralnotificacoes@c6bank.com"
+    },
+    "15.581.638/0001-30": {
+      "nome": "FACTA FINANCEIRA S.A. CFI",
+      "cidade": "702\tCENTRO HISTORICO\tPORTO ALEGRE",
+      "uf": "SP",
+      "cnpj": "15.581.638/0001-30",
+      "endereco": {
+        "rua": "R DOS ANDRADAS",
+        "numero": "1409",
+        "bairro": "E",
+        "cep": "90020-011"
+      },
+      "valorAcao": "R$ 1.666,50",
+      "foroDeCompetencia": "Foro de Cubatão",
+      "complemento": "SALA 701",
+      "telefone": "(51) 2500-7013",
+      "email": "societario.facta@factafinanceira.com.br"
+    }
+  }
+}
